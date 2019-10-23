@@ -1,0 +1,5 @@
+module.exports = {
+    GET_FORCES : "GET_FORCES",
+    GET_CATEGORIES : "GET_CATEGORIES",
+    GET_CRIMES : "GET_CRIMES"
+};

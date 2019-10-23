@@ -1,8 +1,8 @@
 import React from 'react';
 import {BrowserRouter,Switch,Route} from 'react-router-dom'
-import Dashboard from '../Dashbord/Index'
+// import Dashboard from '../Dashbord/Index'
 import Navbar from '../Navbar'
-import Forces from '../Forces'
+// import Forces from '../Forces'
 import Crime from '../CrimeCategory'
 import { Provider } from "react-redux";
 import store from "../../store"

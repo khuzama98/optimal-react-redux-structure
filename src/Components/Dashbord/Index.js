@@ -7,7 +7,7 @@ import Table from '../Common/SimpleTable'
 import Select from '../Common/Select'
 import Button from '../Common/Button'
 import Loader from '../Common/Loader'
-import {forces as forcesApi,categories as categoriesApi,crimes as crimeApi} from '../../config/api'
+// import {forces as forcesApi,categories as categoriesApi,crimes as crimeApi} from '../../config/api'
 
 const style = theme => ({
     contain:{
